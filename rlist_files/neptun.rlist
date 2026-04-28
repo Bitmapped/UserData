@@ -1,5 +1,5 @@
 # ──────────
-# 2026-04-27
+# 2026-04-28
 # ──────────
 
 # ─────────
@@ -346,7 +346,7 @@ DEU-BE U8 GesBru KotTor
 
 DEU-BE 61Ber RahDorfWaldSch BahnHofStrLinStr
 DEU-BE 67Ber BahnHofStrLinStr SSchWeiSteDamm
-DEU-BB 87Wol BE/BB Sch
+DEU-BE 87Wol SRahDorf DEU-BB 87Wol Sch
 DEU-BB 89Str SStrBerg LustGar
 
 DEU-BE S1 GesBru FriStr
@@ -488,6 +488,19 @@ HUN 61Bud Var MorZsiKor
 #┌───────────────────────────────────────────┐
 #│                    POL                    │
 #└───────────────────────────────────────────┘
+
+# ──────
+# Krakow
+# ──────
+
+POL S1Kra KraLot KraGlo
+
+POL 11Kra CzeMakiPR MalyPlaPR
+POL 18Kra PlacWszSwi CzeMakiPR
+POL 20Kra RonGrz MalyPlaPR
+POL 21Kra Str Ple
+POL 44Kra DwoTow Str
+POL 50Kra GorNarPR RonGrz
 
 #┌───────────────────────────────────────────┐
 #│                    ROU                    │

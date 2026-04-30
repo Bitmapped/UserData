@@ -1,5 +1,5 @@
 # ──────────
-# 2026-04-28
+# 2026-04-29
 # ──────────
 
 # ─────────
@@ -154,14 +154,13 @@ CZE 4Plz Kos Uni
 # IDS JMK–Brno
 # ────────────
 
-CZE 1Brn Rec Pis
+CZE 1Brn Rec Rak
 CZE 4Brn NamMiru HlaNad
 CZE 5Brn SteCtv MenNam
 CZE 6Brn MenNam StaLisSmy
 CZE 7Brn LesCerRok HlaNad
 CZE 8Brn NemBoh Mif
 CZE 10Brn Ryb Ces
-CZE 10Brn Ece VozKom
 CZE 11Brn VozKom Bra
 CZE 12Brn TecPark Klu
 CZE 12Brn KonNam HlaNad
@@ -495,6 +494,7 @@ HUN 61Bud Var MorZsiKor
 
 POL S1Kra KraLot KraGlo
 
+POL 10Kra RonMog Ple
 POL 11Kra CzeMakiPR MalyPlaPR
 POL 18Kra PlacWszSwi CzeMakiPR
 POL 20Kra RonGrz MalyPlaPR
@@ -567,6 +567,7 @@ SWE StoGot StoCen Got
 # Stockholm
 # ─────────
 
+SWE 6Got +DIV_Ber Hag
 SWE 7Sto TCen BelWal
 SWE 11Sto SolCen KunGar
 SWE 14Sto Slu DanSju
@@ -583,7 +584,7 @@ SWE 40Sto StoOdenPlan ArsBerg
 
 SWE 1Got CenSta BotTradGar
 SWE 2Got AxelDahTorg MarGat
-SWE 2Got VasaVikGat Dom
+SWE 2Got VasaVikGat KorsVag
 SWE 3Got MarGat VasaVikGat
 SWE 4Got AngCen MolInn
 SWE 5Got BruPar SanSigPlan

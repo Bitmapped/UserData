@@ -1567,6 +1567,9 @@ AZ	AZ98	US89	BIA222	#2019-03 To Instagram and Beyond
 AZ	AZ64	I-40	US89	#2019-03 To Instagram and Beyond
 AZ	I-40	CA/AZ	165	#2019-03 To Instagram and Beyond
 CA	I-40	I-15	CA/AZ	#2019-03 To Instagram and Beyond
+#2019-03 AACR Atlanta				
+GA	I-85	72A	78	#2019-03 AACR Atlanta
+GA	I-75	242	248C	#2019-03 AACR Atlanta
 #2019-08 Big Island				
 HI	HI19	End	HI11/190	#2019-08 Big Island
 HI	HI270	HI19	End	#2019-08 Big Island
@@ -2180,6 +2183,8 @@ UT	UT143	SugLoafRd	ASt	#2025-09 Great Basin
 UT	KolCynRd	I-15	End	#2025-09 Great Basin
 UT	I-15BLStG	700E	I-15_N	#2025-09 Great Basin
 AZ	I-15	NV/AZ	AZ/UT	#2025-09 Great Basin
+#2026-05 Going Bananas				
+SC	US17	GA/SC	SC315	#2026-05 Going Bananas
 #IL non-trip driving routes				
 IL	I-55	MO/IL	US41	
 IL	I-90	79C	82B	

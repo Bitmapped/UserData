@@ -1,7 +1,7 @@
-#everywhere that darmstarm has been up to 4-19-26
+#everywhere that darmstarm has been up to 4-27-26
 #default: Region Route Waypoint1 Waypoint2
 #multi-region: Region1 Route1 Waypoint1 Region2 Route2 Waypoint2
-#last updated 4-23-26.
+#last updated 4-30-26.
 #USA
 #delaware
 DE I-95 MD/DE DE/PA
@@ -14,7 +14,7 @@ DE US13 DE1(119) DE6_E #smyrna
 DE US13 MD/DE AdaRd
 DE US13BusWil DE52 DE202
 DE US113 DE1 DE20_E #holt's landing trip 2017
-DE US202 DE141/261 I-95(8) #antiquity
+DE US202 DE141(1) DE/PA #antiquity
 DE US301 DE1 MD/DE #various trips to raleigh, clinched easter 2026
 DE DE1 DE4 DE26
 DE DE1A DE1_N DE1_S
@@ -59,7 +59,7 @@ PA I-295 PA/NJ I-95/276 #college of new jersey
 PA I-176 2 11 #various trips
 PA I-476 105 5 #various trips, as far as rickett's glen
 PA I-676 PA/NJ 22ndSt #various trips
-PA US1 MD/PA PA352
+PA US1 MD/PA US30 #as far as cardinal avenue for a trip to the mann center
 PA US6 PA666 US6BusWar_E #niagara trip
 PA US6BusWar US6_E US62_N
 PA US15 US11/581 MD/PA #hershey -> raleigh
@@ -67,7 +67,7 @@ PA US22 I-81 US322_W #niagara trip
 PA US22 PA33 I-476 #tobyhana trip
 PA US30 PA41 US15 #gap to gettysburg
 PA US62 US6Bus_E PA/NY
-PA US202 US1/322 DekSt #tmg, valley forge, as far as norristown east
+PA US202 DE/PA DekSt #tmg, valley forge, as far as norristown east
 PA US209 I-476 PA309 #relatives trip
 PA US219 PA153 PA948_N
 PA US222 US422/12 PA183 #hawk mountain trip
@@ -98,16 +98,19 @@ PA PA153 I-80 US219
 PA PA162 PA82/842 StrRd
 PA PA183 US222 PA895 #hawk mountain trip (to campsite)
 PA PA196 PA611/940 PA423 #tobyhana camping trip (ended slightly before this point)
+PA PA252 US1 GraRd #tennis match at marple newtown high school (approx 2021)
 PA PA272 MD/PA PA462 #camp horseshoe, up to lancaster (999 trip 12-25)
 PA PA283 I-283 US30
 PA PA309 I-81(170) HilRd #ricketts glen trip 2018
 PA PA340 PA772_E PA462
 PA PA345 PA82 ParkRd #french creek
+PA PA352 PA452 US1 #pennDOT media
 PA PA372 PA472 US222_N #home to lancaster
 PA PA401 US202 PhoPike
 PA PA413 I-295 BelAve_N #ebay purchase
 PA PA420 I-95 US13
 PA PA441 LocSt PA999 #pa999 trip 12-25
+PA PA452 US1 PA352 #pennDOT media
 PA PA462 PA999 PA340 #through lancaster city
 PA PA462 PA741 2ndSt #pa999 trip 12-25
 PA PA472 US1 PA372 #oxford
@@ -248,9 +251,9 @@ NC I-485 30 32
 NC I-540 4 26 #roadtrip 11-16-25
 NC I-840 6 21 #spring break road trip 2026 (blacksburg -> raleigh)
 NC I-885 5 13 #completed 9-25
-NC US1 NC2 NC/VA #update 10-25 wingate trip update 4-26 raleigh -> home easter 2026
+NC US1 OldUS1 NC/VA #update 10-25 wingate trip update april 26 raleigh -> home easter 2026 update road trip 4-27-26 to saunders blvd
 NC US15 NC/VA I-85(202)
-NC US15 NC73 71(1) #wingate trip 10-25
+NC US15 NC2/211 71(1) #wingate trip 10-25 update road trip 4/26
 NC US15 I-40 FraSt #unc track meet(s)
 NC US15 I-85(202) NC50/56 #uva track meet 4-26
 NC US19E BigPluRd NC194 #not a drive, a RUN! BRR 9-25. to hanging rock rd
@@ -275,15 +278,18 @@ NC US220 NC/VA I-840 #spring break road trip 2026 (blacksburg -> raleigh)
 NC US221 OldUS421_W US321_N #BRR 9-25
 NC US221 DeeRd NC181_N #BRR 9-25
 NC US221BusJef NC88_W NC194_N #BRR 9-25
-NC US401 US1_N NC42/55 #to fuquay varina
+NC US401 US1_N NC27_W #road trip 4-27-25
 NC US421 233B I-40(212) #many trips, most recent being BRR 9-25
 NC US421 OldUS421_W US221_S #BRR 9-25
 NC NC2 US1 US15/501 #wingate trip 10-25
+NC NC5 ElIvesDr NC211 #road trip 4-27-25
 #NC NC9 US64/74Alt ingles #BRR 9-25
 NC NC24 21C(295) NC210_N #fort bragg trip 1-26
+NC NC27 US401_N US1 #road trip 4-27-25
 NC NC36 I-40 CleRd #garner wawa
 NC NC36 4(42) US70 #roadtrip 8-13-25
 NC NC42 US70 NC96 #roadtrip 8-13-25
+NC NC42San US1/15 US401_N #road trip 4-27-25
 NC NC50 US70_W LynnRd #technically to SR 1822
 NC NC50 US15 LynnRd #uva track meet 4-26
 NC NC54 I-440(3) BluRidRd #campus
@@ -296,6 +302,7 @@ NC NC55BypHol NC55_N NC55_S #road trip 12-9-25
 NC NC66 US421 NC74 #spring break road trip 2026 (raleigh -> breaks)
 NC NC73 US15/501 I-73/74 #wingate trip 10-25
 NC NC74 41 53
+NC NC78 US1 US421Bus #road trip 4-27-25
 NC NC86 US70 NC/VA #raleigh -> hershey
 NC NC86 I-40 US15/501 #various trips
 NC NC96 US64/264 US64Bus_W
